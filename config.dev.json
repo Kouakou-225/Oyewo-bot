@@ -1,9 +1,9 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
-		"2FASecret": "",
-		"i_user": "",
+		"email": "oyewotoriola7@gmail.com",
+		"password": "oyewo",
+		"2FASecret": "oyewo",
+		"i_user": "oyewo",
 		"proxy": null,
 		"userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
 		"intervalGetNewCookie": 1440,
@@ -12,13 +12,15 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "oyewo bot",
+	"prefix": "✓",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+		"61551848127041"
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
